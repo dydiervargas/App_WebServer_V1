@@ -5,6 +5,7 @@
   Cali-Colombia
   Linkedin: www.linkedin.com/in/dydiervargas
   Twitter: @dyanvar1
+  Github: https://github.com/dydiervargas
   Quien soy:
 
   Soy una persona responsable, dinámica, con aspiraciones,  con deseos de superación y metas basadas en el logro de objetivos, 
@@ -16,14 +17,15 @@
 
   Programas:
 
-  Excel.............Medio
-  Word .............Basico
-  
+  Microsotf Excel       1 2 x 4 5
+  Microsotf Word        1 2 x 4 5
+  Visual Basic          1 x 3 4 5
+  Github                1 x 3 4 5
 
   Referencias
 
   Español
-  Ingles
+  
 
   Experiencia Profecional
    Empresa	       Almacenes Olimpica
