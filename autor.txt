@@ -22,7 +22,10 @@
   Visual Basic          1 x 3 4 5
   Github                1 x 3 4 5 
   https://github.com/dydiervargas/proyectosC
-
+  Mantenimiento de pc   1 2 3 x 5
+  Bases de Datos        1 2 x 4 5
+  
+ 
   Referencias
 
   Español
